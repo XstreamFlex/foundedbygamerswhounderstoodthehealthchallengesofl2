@@ -1,2 +1,3 @@
-# foundedbygamerswhounderstoodthehealthchallengesofl2
-Founded by gamers who understood the health challenges of long gaming sessions, GamerXise revolutio
+# Founded by gamers who understood the health challenges of long gaming sessions, GamerXise revolutionizes fitness by making it compatible with gaming. Our mission is to prove that you don't have to choose between your passion for gaming and your health. We believe in innovative solutions that fit into your lifestyle, not the other way around. Our values include inclusivity in the gaming community, sustainable health practices, and making fitness accessible to everyone. Website
+
+Live site: https://xstreamflex.github.io/foundedbygamerswhounderstoodthehealthchallengesofl2/
